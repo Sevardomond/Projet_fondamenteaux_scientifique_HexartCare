@@ -18,3 +18,6 @@ televerser le programme vers la carte
 
 les LED's vont s'allumer celon le mode d'allumage choisi 
 
+les fichier menu.c ; menu.h ; GenerationCode.c ; GenerationCode.h ; main.c ==> c'est le code en c 
+les fichier coeur.ino ; coeur.h ; param.h ==> c'est le code arduino 
+
